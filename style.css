@@ -1,0 +1,37 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+ }
+.attribution a { 
+        color: hsl(228, 45%, 44%);
+}
+body{
+    height: auto;
+    width: auto;
+    background-color:hsl(212, 45%, 89%);
+}
+.square{
+    text-align: center;
+    height: 400px;
+    width: 250px;
+    background-color: white;
+    margin: 100px auto;
+    border-radius: 15px;
+    padding: 12px;
+    font-family: sans-serif;
+
+}
+img{
+    height: 60%;
+    width: 100%;
+    border-radius: 13px;
+}
+h2{
+    font-size: 18px;
+    font-weight: 700;
+    
+}
+p{
+    font-size: 15px;
+    color: gray;
+}
